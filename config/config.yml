@@ -1,0 +1,6 @@
+discord:
+  key: "your discord key"
+  bot: "the discord id of your bot"
+services:
+  mongo:
+    url: "url for your mongo db"
